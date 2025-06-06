@@ -90,4 +90,4 @@ This project analyzes data from the Behavioral Risk Factor Surveillance System (
 **Project Links**
 
 - [GitHub Repository](https://github.com/ElenaSvirko/Cognitive_Decline_Predictors_Project)
-- [Final Report](https://public.tableau.com/app/profile/elena.svirko/viz/cognitivedeclinestoryboard06_05_2025/cognitivedeclineproject?publish=yes)
+- [Tableau Storyboard](https://public.tableau.com/app/profile/elena.svirko/viz/cognitivedeclinestoryboard06_05_2025/cognitivedeclineproject)
