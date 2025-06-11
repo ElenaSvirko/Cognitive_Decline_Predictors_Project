@@ -26,7 +26,7 @@ This project analyzes data from the Behavioral Risk Factor Surveillance System (
 
 **Tools & Skills**
 
-- **Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy)
+- **Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Folium)
 - **Software:** Jupyter Notebooks, Excel, Tableau
 
 **Techniques Used**
