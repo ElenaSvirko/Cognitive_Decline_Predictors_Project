@@ -5,19 +5,15 @@ This project is part of the CareerFoundry Data Analytics program. I selected a r
 
 **Project Goal**
 
-This project analyzes data from the Behavioral Risk Factor Surveillance System (BRFSS) to explore factors associated with cognitive decline in adults aged 50 and older. Focusing on lifestyle behaviors like physical inactivity and smoking, the goal is to identify actionable factors that could help prevent or slow the onset of cognitive decline symptoms in this population.
+This project analyzes data from the Behavioral Risk Factor Surveillance System (BRFSS) to explore factors associated with cognitive decline and general health outcome in adults aged 50 and older. Focusing on lifestyle behaviors like physical inactivity and smoking, the goal is to identify actionable factors that could help prevent or slow the onset of cognitive decline symptoms and imporove general health in this population.
 
-**Research Questions & Hypotheses**
+**Research Purpose**
 
-**Primary Hypotheses:**
-
-- Lack of leisure-time physical activity is positively related to the onset of cognitive decline symptoms in older adults.
-- Smoking is positively related to the onset of cognitive decline symptoms in older adults.
-
-**Additional Questions:**
-
-- Which states have the highest percentages of older adults who smoke and do not engage in leisure-time physical activity?
-- How have the percentages of smoking and physical inactivity changed in the U.S. between 2005 and 2023?
+This project supports public health professionals, policymakers, and researchers in understanding:
+- How lifestyle behaviors contribute to health outcomes among older adults.
+- Geographic “hotspots” where intervention efforts may be most needed.
+- Trends indicating areas of progress and ongoing challenges.
+- Opportunities for targeted health promotion and policy initiatives.
 
 **Data Sources**
 
@@ -36,15 +32,14 @@ This project analyzes data from the Behavioral Risk Factor Surveillance System (
 - Grouping and aggregating data
 - Data visualization
 - Correlation and regression analysis
-- Unsupervised machine learning (clustering)
 - Time series data preparation
 
 **Key Insights**
 
-- **Significant Predictors of Cognitive Decline:**
+- **Lifestyle factors in relation to oucomes:**
   - Lack of leisure-time physical activity
   - Smoking  
-        These behaviors are strongly linked to self-reported cognitive decline among adults aged 50+.
+    These behaviors are strongly linked to poor health outcomes among among adults aged 50+, highlighting these as critical areas for intervention.
 - **Trends Over Time:**
   - Nationwide smoking rates have decreased, indicating positive progress.
   - Physical inactivity rates have remained stagnant, highlighting the need for targeted interventions.
@@ -52,8 +47,6 @@ This project analyzes data from the Behavioral Risk Factor Surveillance System (
     States with high smoking and physical inactivity rates include:  
     Mississippi, Kentucky, Arkansas, West Virginia, Oklahoma, Louisiana, and Tennessee.  
     These areas should be priority targets for public health initiatives.
-- **High-Risk Cluster (Unsupervised ML):**  
-    A group characterized by multiple overlapping health risks — poor physical health, obesity, mental distress, depression, smoking, and physical inactivity — but notably low binge drinking. This cluster requires tailored, multifaceted interventions.
 
 **Recommendations**
 
@@ -90,4 +83,4 @@ This project analyzes data from the Behavioral Risk Factor Surveillance System (
 **Project Links**
 
 - [GitHub Repository](https://github.com/ElenaSvirko/Cognitive_Decline_Predictors_Project)
-- [Tableau Storyboard](https://public.tableau.com/app/profile/elena.svirko/viz/cognitivedeclinestoryboard06_05_2025/cognitivedeclineproject)
+- [Tableau Storyboard](https://public.tableau.com/shared/9NMPKTDHB?:display_count=n&:origin=viz_share_link)
